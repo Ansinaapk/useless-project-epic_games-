@@ -33,8 +33,8 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-[*Clone the repository
-https://github.com/Ansinaapk/useless-project-epic_games
+[
+git clone https://github.com/Ansinaapk/useless-project-epic_games.git
 
 *Navigate to the project folder
 cd useless-project-epic_games
