@@ -37,7 +37,7 @@ For Software:
 [git clone ](https://github.com/Ansinaapk/useless-project-epic_games)
 
 *Navigate to the project folder
-cd The-Infinity-Button
+cd useless-project-epic_games
 
 *Install dependencies
 npm install]
