@@ -34,8 +34,7 @@ For Software:
 For Software:
 # Installation
 [*Clone the repository
-[git clone ](useless-project-epic_games-
-)
+https://github.com/Ansinaapk/useless-project-epic_games
 
 *Navigate to the project folder
 cd useless-project-epic_games
