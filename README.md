@@ -10,14 +10,14 @@
 
 ### Team Members
 - Team Lead: [Kenz] - [Government engineering college Idukki]
-- Member 2: [Ansina] - [Government engineering college Idukki]
+- Member 2: [Ansina APK] - [Government engineering college Idukki]
 
 
 ### Project Description
 [Our project consists of an interactive page that allows us to play two games.Two not so fun, but boredome releiving games]
 
 ### The Problem (that doesn't exist)
-[Problem? You have too much time on our hands.]
+[Problem? You have too much time on your hands.]
 
 ### The Solution (that nobody asked for)
 [Solution? Play our stupid games and never get bored. ]
@@ -37,7 +37,7 @@ For Software:
 git clone https://github.com/Ansinaapk/useless-project-epic_games-.git
 
 *Navigate to the project folder
-cd useless-project-epic_games
+cd useless-project-epic_games-
 
 *Install dependencies
 npm install]
@@ -77,7 +77,7 @@ Maze-infinity: This is a game totally dependent on luck. the objective is to fin
 # Video
 ![0% accuracy shooter](https://drive.google.com/file/d/17bRbFlzAeTCY4SViEAp2opb6Rvrlabg3/view?usp=drive_link)
 ![Maze infinity](https://drive.google.com/file/d/1yGgzX6VVQ4rg-FuuQzu616gqHXjPjQvQ/view?usp=drive_link)
-
+![]
 
 
 ---
