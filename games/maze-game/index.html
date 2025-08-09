@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maze of Random Victory</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧩</text></svg>">
+</head>
+<body>
+    <div class="container">
+        <h1>Maze of Random Victory</h1>
+        <div id="hud">
+            <span id="timer">Time: 30</span>
+            <span id="wins">Wins: 0</span>
+            <span id="streak">Streak: 0</span>
+        </div>
+        
+        <div class="difficulty">
+            <span>Difficulty: </span>
+            <button onclick="setDifficulty('easy')">Easy</button>
+            <button onclick="setDifficulty('medium')" class="active">Medium</button>
+            <button onclick="setDifficulty('hard')">Hard</button>
+        </div>
+        
+        <div class="game-controls">
+            <button onclick="resetGame()">New Maze</button>
+            <button onclick="revealExit()">Reveal Exit</button>
+        </div>
+        
+        <canvas id="mazeCanvas"></canvas>
+        <p id="message"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
