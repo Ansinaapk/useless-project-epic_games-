@@ -75,7 +75,7 @@ Maze-infinity: This is a game totally dependent on luck. the objective is to fin
 
 ### Project Demo
 # Video
-![This is the overview of an our funny game](https://ansinaapk.github.io/useless-project-epic_games-/epicgamesportal.mp4)
+![EPIC GAME PORTAL](https://ansinaapk.github.io/useless-project-epic_games-/epicgamesportal.mp4)
 
 
 ---
