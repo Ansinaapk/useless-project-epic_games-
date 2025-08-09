@@ -59,15 +59,15 @@ Maze-infinity: This is a game totally dependent on luck. the objective is to fin
 0% accuracy shooter: This game is a stupid and annoying game, where the shots go exactly where you dont expect it to go to. the shot directions are random, and to avoid enemy blocks from hitting on us]
 
 # Screenshots (Add at least 3)
-![home page](https://ansinaapk.github.io/useless-project-epic_games-/index.html)
+![home page](https://ansinaapk.github.io/useless-project-epic_games-/homepage.png)
 
 
-![Game selection page](https://ansinaapk.github.io/useless-project-epic_games-/games.html)
+![Game selection page](https://ansinaapk.github.io/useless-project-epic_games-/gameselectionpage.png)
 
 
-![0% accuracy shooter](https://ansinaapk.github.io/useless-project-epic_games-/games/shooter-game/)
+![0% accuracy shooter](https://ansinaapk.github.io/useless-project-epic_games-/mazerandomvictory.png)
 
-![Maze infinity]( https://ansinaapk.github.io/useless-project-epic_games-/games/maze-game/)
+![Maze infinity]( https://ansinaapk.github.io/useless-project-epic_games-/accuracyshooter.png)
 
 
 
